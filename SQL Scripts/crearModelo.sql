@@ -1,4 +1,4 @@
-﻿/*
+/*
 Created: 21/06/2012
 Modified: 21/06/2012
 Project: SQLsnippet
